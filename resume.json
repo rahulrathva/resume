@@ -1,0 +1,162 @@
+{
+    "basics": {
+        "name": "Rahul Rathva",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1062@iiitkota.ac.in",
+        "phone": "+919265219230",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), pursuing my B.tech in Computer Science & engineering."
+        "location": {
+            "address": "Amitnagar",
+            "postalCode": "390002",
+            "city": "Vadodara",
+            "countryCode": " India",
+            "region": "Gujarat"
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Linkedin",
+                "username": "Rahul Rathva",
+                "url": "https://www.linkedin.com/in/rahul-rathva-5a3a3220b/"
+            },
+            {
+                "network": "Instagram",
+                "username": "rahulrathwa7",
+                "url": "https://www.instagram.com/invites/contact/?i=1vizl184a85wn&utm_content=mnidc48"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "B.Tech",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "5.88",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Software Skills",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "C/C++",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Secondary"
+        }
+{
+            "language": "Hindi",
+            "fluency": "Secondary"
+        }
+{
+            "language": "German",
+            "fluency": "Beginner"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Animes",
+            "keywords": [
+                "Komi-san"
+		"Marin Kitagawa"
+		"Rem"
+		"Shikimori"
+		"shutina"
+		"Akeno"
+		"Rias"
+		"Yor Forgders"
+		            ]
+        },
+        {
+            "name": "Sports",
+            "keywords": [
+                "Football",
+                "Athletics"
+            ]
+        }
+    ]
+}
